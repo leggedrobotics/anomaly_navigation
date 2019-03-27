@@ -1,0 +1,7 @@
+runs/
+__pycache__
+erfnet_stuff/
+save/
+log/
+data/
+*.zip
